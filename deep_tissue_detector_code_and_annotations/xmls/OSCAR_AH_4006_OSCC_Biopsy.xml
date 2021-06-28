@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Annotation 0" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="25266.8477" Y="6230.85352" />
+				<Coordinate Order="1" X="18398.1895" Y="5838.35889" />
+				<Coordinate Order="2" X="19134.1172" Y="8634.88379" />
+				<Coordinate Order="3" X="20704.0957" Y="12167.3359" />
+				<Coordinate Order="4" X="23647.8066" Y="10450.1719" />
+				<Coordinate Order="5" X="23500.6211" Y="7948.01807" />
+				<Coordinate Order="6" X="25168.7246" Y="7653.64697" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 1" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="9125.50195" Y="24138.4258" />
+				<Coordinate Order="1" X="7457.3999" Y="23745.9297" />
+				<Coordinate Order="2" X="6034.60645" Y="25168.7246" />
+				<Coordinate Order="3" X="6427.10107" Y="26051.8379" />
+				<Coordinate Order="4" X="8095.20361" Y="26395.2695" />
+				<Coordinate Order="5" X="9517.99707" Y="25021.5391" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 2" Type="Spline" PartOfGroup="background" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="22922.5625" Y="17173.7305" />
+				<Coordinate Order="1" X="17173.7305" Y="20812.2324" />
+				<Coordinate Order="2" X="18483.5898" Y="26342.7559" />
+				<Coordinate Order="3" X="25615.0547" Y="26124.4453" />
+				<Coordinate Order="4" X="32309.8984" Y="18483.5898" />
+				<Coordinate Order="5" X="30490.6465" Y="16664.3398" />
+				<Coordinate Order="6" X="26633.8359" Y="16373.2598" />
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+	<AnnotationGroups>
+		<Group Name="artifact" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="background" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="tissue" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+	</AnnotationGroups>
+</ASAP_Annotations>

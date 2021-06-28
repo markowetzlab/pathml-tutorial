@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Annotation 0" Type="Polygon" PartOfGroup="artifact" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="55522.9727" Y="9391.26172" />
+				<Coordinate Order="1" X="54538.0391" Y="9414.16797" />
+				<Coordinate Order="2" X="53621.8164" Y="9597.41211" />
+				<Coordinate Order="3" X="53117.8945" Y="10399.1045" />
+				<Coordinate Order="4" X="52934.6523" Y="11315.3252" />
+				<Coordinate Order="5" X="53805.0625" Y="11773.4355" />
+				<Coordinate Order="6" X="54515.1328" Y="12414.79" />
+				<Coordinate Order="7" X="55477.1641" Y="12437.6963" />
+				<Coordinate Order="8" X="56393.3828" Y="12346.0742" />
+				<Coordinate Order="9" X="57286.6992" Y="12048.3018" />
+				<Coordinate Order="10" X="58202.9219" Y="11865.0576" />
+				<Coordinate Order="11" X="59073.3281" Y="11544.3809" />
+				<Coordinate Order="12" X="59691.7773" Y="10857.2148" />
+				<Coordinate Order="13" X="59096.2344" Y="10101.333" />
+				<Coordinate Order="14" X="58523.5977" Y="9322.5459" />
+				<Coordinate Order="15" X="57653.1875" Y="9001.86816" />
+				<Coordinate Order="16" X="56736.9688" Y="9070.58496" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 1" Type="Polygon" PartOfGroup="artifact" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="6138.92236" Y="2139.32153" />
+				<Coordinate Order="1" X="5952.89453" Y="27625.1504" />
+				<Coordinate Order="2" X="372.055908" Y="27625.1504" />
+				<Coordinate Order="3" X="279.041931" Y="1488.22363" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 2" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="7051.29932" Y="47823.6055" />
+				<Coordinate Order="1" X="5952.89453" Y="50413.5742" />
+				<Coordinate Order="2" X="9673.45313" Y="50506.5898" />
+				<Coordinate Order="3" X="11905.7891" Y="47437.1289" />
+				<Coordinate Order="4" X="8714.77539" Y="46229.6133" />
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+	<AnnotationGroups>
+		<Group Name="tissue" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="artifact" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="background" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+	</AnnotationGroups>
+</ASAP_Annotations>

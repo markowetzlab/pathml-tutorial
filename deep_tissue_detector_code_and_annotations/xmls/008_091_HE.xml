@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Annotation 0" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="21444.4941" Y="5866.2749" />
+				<Coordinate Order="1" X="15056.7725" Y="2020.60583" />
+				<Coordinate Order="2" X="13687.9746" Y="3519.76489" />
+				<Coordinate Order="3" X="16490.75" Y="5605.55176" />
+				<Coordinate Order="4" X="17598.8242" Y="7560.97656" />
+				<Coordinate Order="5" X="16099.666" Y="8799.41211" />
+				<Coordinate Order="6" X="17859.5488" Y="11928.0928" />
+				<Coordinate Order="7" X="18967.623" Y="14861.2305" />
+				<Coordinate Order="8" X="17012.1973" Y="16425.5703" />
+				<Coordinate Order="9" X="18967.623" Y="16947.0176" />
+				<Coordinate Order="10" X="14861.2305" Y="20727.5059" />
+				<Coordinate Order="11" X="10689.6562" Y="24051.7266" />
+				<Coordinate Order="12" X="13687.9746" Y="24312.4512" />
+				<Coordinate Order="13" X="19489.0684" Y="20206.0586" />
+				<Coordinate Order="14" X="22096.3027" Y="16555.9316" />
+				<Coordinate Order="15" X="23269.5566" Y="13687.9746" />
+				<Coordinate Order="16" X="23399.9199" Y="9386.04004" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 1" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="6713.62598" Y="5540.37061" />
+				<Coordinate Order="1" X="2607.2334" Y="8799.41211" />
+				<Coordinate Order="2" X="2150.96753" Y="13557.6133" />
+				<Coordinate Order="3" X="3976.03076" Y="14079.0596" />
+				<Coordinate Order="4" X="4953.74316" Y="12319.1777" />
+				<Coordinate Order="5" X="6192.1792" Y="10950.3799" />
+				<Coordinate Order="6" X="9646.76367" Y="8082.42334" />
+				<Coordinate Order="7" X="6713.62598" Y="7952.06152" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 2" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="52861.6562" Y="10559.2949" />
+				<Coordinate Order="1" X="50580.3281" Y="10233.3906" />
+				<Coordinate Order="2" X="48624.9023" Y="14339.7832" />
+				<Coordinate Order="3" X="50254.4219" Y="15447.8574" />
+				<Coordinate Order="4" X="54100.0898" Y="14991.5918" />
+				<Coordinate Order="5" X="54621.5391" Y="13492.4326" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 3" Type="Spline" PartOfGroup="background" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="43749.4727" Y="7918.81152" />
+				<Coordinate Order="1" X="40926.9258" Y="6350.72998" />
+				<Coordinate Order="2" X="37633.957" Y="6037.11377" />
+				<Coordinate Order="3" X="34419.3867" Y="6115.51758" />
+				<Coordinate Order="4" X="31283.2246" Y="6429.13379" />
+				<Coordinate Order="5" X="29543.8164" Y="9062.0957" />
+				<Coordinate Order="6" X="29388.8828" Y="12495.4844" />
+				<Coordinate Order="7" X="28539.082" Y="15131.9863" />
+				<Coordinate Order="8" X="30107.1641" Y="19287.4023" />
+				<Coordinate Order="9" X="32616.0938" Y="22109.9492" />
+				<Coordinate Order="10" X="35517.0469" Y="23834.8379" />
+				<Coordinate Order="11" X="38653.207" Y="23756.4336" />
+				<Coordinate Order="12" X="40221.2891" Y="20855.4844" />
+				<Coordinate Order="13" X="40926.9258" Y="17248.8965" />
+				<Coordinate Order="14" X="41240.543" Y="13799.1172" />
+				<Coordinate Order="15" X="42416.6055" Y="10741.3584" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 4" Type="Spline" PartOfGroup="artifact" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="27997.0352" Y="10182.4961" />
+				<Coordinate Order="1" X="27127.5625" Y="10356.3916" />
+				<Coordinate Order="2" X="27069.5977" Y="10588.251" />
+				<Coordinate Order="3" X="27436.707" Y="10646.2158" />
+				<Coordinate Order="4" X="28151.6074" Y="10414.3564" />
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+	<AnnotationGroups>
+		<Group Name="artifact" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="background" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="tissue" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+	</AnnotationGroups>
+</ASAP_Annotations>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Annotation 2" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="44395.2969" Y="14798.4326" />
+				<Coordinate Order="1" X="39934.0039" Y="12839.8164" />
+				<Coordinate Order="2" X="35255.0898" Y="12622.1924" />
+				<Coordinate Order="3" X="31446.668" Y="15342.4922" />
+				<Coordinate Order="4" X="27964.6855" Y="18062.793" />
+				<Coordinate Order="5" X="25788.4453" Y="21871.2129" />
+				<Coordinate Order="6" X="30684.9844" Y="23938.6406" />
+				<Coordinate Order="7" X="33187.6602" Y="27638.248" />
+				<Coordinate Order="8" X="35363.9023" Y="31446.668" />
+				<Coordinate Order="9" X="33622.9102" Y="35581.5234" />
+				<Coordinate Order="10" X="31229.0449" Y="39281.1328" />
+				<Coordinate Order="11" X="35907.9609" Y="41566.1836" />
+				<Coordinate Order="12" X="40804.5" Y="42001.4336" />
+				<Coordinate Order="13" X="45048.168" Y="40913.3125" />
+				<Coordinate Order="14" X="45918.6641" Y="36452.0195" />
+				<Coordinate Order="15" X="45592.2305" Y="31990.7285" />
+				<Coordinate Order="16" X="48747.7773" Y="28943.9922" />
+				<Coordinate Order="17" X="53100.2578" Y="28835.1816" />
+				<Coordinate Order="18" X="57561.5508" Y="27855.873" />
+				<Coordinate Order="19" X="60717.0977" Y="24809.1367" />
+				<Coordinate Order="20" X="61914.0312" Y="20565.4688" />
+				<Coordinate Order="21" X="57343.9258" Y="19803.7852" />
+				<Coordinate Order="22" X="53100.2578" Y="21435.9648" />
+				<Coordinate Order="23" X="48856.5898" Y="19586.1602" />
+				<Coordinate Order="24" X="46897.9727" Y="15560.1162" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 3" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="39498.7578" Y="56038.1797" />
+				<Coordinate Order="1" X="35146.2773" Y="56364.6172" />
+				<Coordinate Order="2" X="33949.3438" Y="59411.3516" />
+				<Coordinate Order="3" X="37648.9531" Y="60173.0391" />
+				<Coordinate Order="4" X="39607.5703" Y="58976.1055" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 4" Type="Spline" PartOfGroup="tissue" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="57235.1133" Y="47224.4102" />
+				<Coordinate Order="1" X="52991.4453" Y="48312.5273" />
+				<Coordinate Order="2" X="48638.9648" Y="48638.9648" />
+				<Coordinate Order="3" X="44830.5469" Y="50924.0156" />
+				<Coordinate Order="4" X="45701.043" Y="52229.7617" />
+				<Coordinate Order="5" X="56473.4297" Y="52229.7617" />
+			</Coordinates>
+		</Annotation>
+		<Annotation Name="Annotation 5" Type="Spline" PartOfGroup="background" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="22850.5215" Y="52229.7617" />
+				<Coordinate Order="1" X="18171.6035" Y="53970.7617" />
+				<Coordinate Order="2" X="13166.2559" Y="53317.8906" />
+				<Coordinate Order="3" X="9575.45605" Y="51359.2656" />
+				<Coordinate Order="4" X="5222.97607" Y="51032.8281" />
+				<Coordinate Order="5" X="1848.35388" Y="51163.6953" />
+				<Coordinate Order="6" X="2400.54053" Y="55733.8008" />
+				<Coordinate Order="7" X="2576.95972" Y="60064.2266" />
+				<Coordinate Order="8" X="4068.69922" Y="62308.082" />
+				<Coordinate Order="9" X="9236.5459" Y="62549.2031" />
+				<Coordinate Order="10" X="15446.9541" Y="63093.25" />
+				<Coordinate Order="11" X="20288.3633" Y="63006.4922" />
+				<Coordinate Order="12" X="23076.2676" Y="62832.9609" />
+				<Coordinate Order="13" X="26831.0117" Y="62276.4414" />
+				<Coordinate Order="14" X="27094.1895" Y="59955.4141" />
+				<Coordinate Order="15" X="26332.5039" Y="55602.9336" />
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+	<AnnotationGroups>
+		<Group Name="artifact" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="background" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+		<Group Name="tissue" PartOfGroup="None" Color="#64FE2E">
+			<Attributes />
+		</Group>
+	</AnnotationGroups>
+</ASAP_Annotations>
