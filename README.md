@@ -3,7 +3,7 @@ Learning PathML, a Python library for deep learning on whole-slide images
 [PathML](https://github.com/markowetzlab/pathml) is a Python library for performing deep learning image analysis on whole-slide images (WSIs), including deep tissue, artefact, and background filtering, tile extraction, model inference, model evaluation and more. This repository serves to teach users how to apply `PathML` on both a classification and a segmentation example problem from start to finish using best practices.
 
 <p align="center">
-  <img src="https://github.com/markowetzlab/pathml-tutorial/figure1.png" width="500" />
+  <img src="https://github.com/markowetzlab/pathml-tutorial/figures/figure1.png" width="500" />
 </p>
 
 Installing PathML and its depedencies
