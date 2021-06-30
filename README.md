@@ -1,9 +1,9 @@
 Learning PathML, a Python library for deep learning on whole-slide images
 =====
-[PathML](https://github.com/markowetzlab) is a Python library for performing deep learning image analysis on whole-slide images (WSIs), including deep tissue/artefact/background filtering, tile extraction, model inference, model evaluation and more. This repository serves to teach users how to apply `PathML` on both a classification and a segmentation example problem from start to finish using best practices.
+[PathML](https://github.com/markowetzlab/pathml) is a Python library for performing deep learning image analysis on whole-slide images (WSIs), including deep tissue, artefact, and background filtering, tile extraction, model inference, model evaluation and more. This repository serves to teach users how to apply `PathML` on both a classification and a segmentation example problem from start to finish using best practices.
 
-<p align="https://github.com/markowetzlab/pathml-tutorial/figure1.png">
-  <img src="" width="500" />
+<p align="center">
+  <img src="https://github.com/markowetzlab/pathml-tutorial/figure1.png" width="500" />
 </p>
 
 Installing PathML and its depedencies
@@ -26,6 +26,8 @@ First clone this repository:
 ```
 git clone https://github.com/markowetzlab/pathml-tutorial
 ```
+The tutorial uses an example subset lymph node WSIs from the [CAMELYON16 challenge](https://camelyon16.grand-challenge.org/). Some of these WSIs contain breast cancer metastases and the goal of the tutorial is to use PathML to train deep learning models to identify metastasis-containing slides and slide regions, and then to evaluate the performance of those models.
+
 Create a directory called `wsi_data` where there is at least 38 GB of disk space. Download the following 18 WSIs from the [CAMELYON16 dataset](https://drive.google.com/drive/folders/0BzsdkU4jWx9Ba2x1NTZhdzQ5Zjg?resourcekey=0-g2TRih6YKi5P2O1SiBB1LA) into `wsi_data`:
 
 * `normal/normal_001.tif`
@@ -51,11 +53,11 @@ Install Jupyter notebook into `pathml-env`:
 ```
 conda install -c conda-forge notebook
 ```
-Now that the requisite software and data have been downloaded, you are ready to begin the tutorial, which is contained in the Jupyter notebook `pathml-tutorial.ipynb` in this repository. Start notebook and then navigate to that document in the inferface:
+Now that the requisite software and data have been downloaded, you are ready to begin the tutorial, which is contained in the Jupyter notebook `pathml-tutorial.ipynb` in this repository. Start notebook and then navigate to that document in the interface:
 ```
 jupyter notebook
 ```
-For instructions on running Jupyter notebooks, see the [Jupyter documentation](https://jupyter.org/documentation).
+Once up and running, `pathml-tutorial.ipynb` contains instructions for running the tutorial. For instructions on running Jupyter notebooks, see the [Jupyter documentation](https://jupyter.org/documentation).
 
 Disclaimer
 ----
