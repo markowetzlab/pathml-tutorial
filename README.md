@@ -71,6 +71,10 @@ Once up and running, `pathml-tutorial.ipynb` contains instructions for running t
 
 The results of a completed tutorial run can be found [here](https://doi.org/10.5281/zenodo.5006409).
 
+Documentation
+----
+The complete documentation for `PathML` including its API reference can be found [here](https://path-ml.readthedocs.io/).
+
 Disclaimer
 ----
 Note that this is prerelease software. Please use accordingly.
